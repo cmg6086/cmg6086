@@ -4,7 +4,7 @@ pipeline {
           stage('stage 1') {
               steps {
                   echo "hello world"
-                  echo "왜 안되누!!!!!"
+                  echo "드디어 됐다!!"
               }
           }
         }
