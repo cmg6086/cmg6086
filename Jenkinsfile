@@ -4,7 +4,7 @@ pipeline {
           stage('stage 1') {
               steps {
                   echo "hello world"
-                  echo "hihi"
+                  echo "최태영입니다!"
               }
           }
         }
