@@ -1,4 +1,4 @@
-# My App
+# My App1
 
 ## Framework7 CLI Options
 
